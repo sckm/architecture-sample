@@ -1,2 +1,3 @@
+include ':flux'
 include ':app'
 rootProject.name = "architecture-sample"
